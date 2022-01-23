@@ -63,3 +63,10 @@ article p {
         left: 18px;
     }
 }
+
+@media screen and (min-width: 1440px) {
+    .container {
+        top: 170px;
+        left: 570px;
+    }
+}
